@@ -180,7 +180,7 @@ a img {
 
 .demo-1 body {
 	color: #87968e;
-	background: #fff2e3;
+	background: rgba(255,255,255,0);
 }
 
 .demo-1 a {
@@ -188,13 +188,13 @@ a img {
 }
 
 .demo-1 .htmleaf-demos a {
-	background: #72b890;
+	background: rgba(255,255,255,0);
 	color: #fff;
 }
 
 .demo-2 body {
 	color: #fff;
-	background: #c05d8e;
+	background: rgba(255,255,255,0);
 }
 
 .demo-2 a {
@@ -207,18 +207,18 @@ a img {
 }
 
 .demo-2 .htmleaf-demos a {
-	background: #883b61;
+	background: rgba(255,255,255,0);
 	color: #fff;
 }
 
 .demo-2 .htmleaf-top a:hover {
-	background: rgba(255,255,255,0.3);
+	background: rgba(255,255,255,0);
 	color: #333;
 }
 
 .demo-3 body {
 	color: #87968e;
-	background: #fff2e3;
+	background: rgba(255,255,255,0);
 }
 
 .demo-3 a {
@@ -226,13 +226,13 @@ a img {
 }
 
 .demo-3 .htmleaf-demos a {
-	background: #ea5381;
+	background: rgba(255,255,255,0);
 	color: #fff;
 }
 
 .demo-4 body {
 	color: #999;
-	background: #fff2e3;
+	background: rgba(255, 255, 255, 0);
 	overflow: hidden;
 }
 
